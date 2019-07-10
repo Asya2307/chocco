@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-Bold.woff2') format('woff2'),
+        url('AlegreyaSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-Medium.woff2') format('woff2'),
+        url('AlegreyaSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-Black.woff2') format('woff2'),
+        url('AlegreyaSans-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('AlegreyaSans-ExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-Thin.woff2') format('woff2'),
+        url('AlegreyaSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-LightItalic.woff2') format('woff2'),
+        url('AlegreyaSans-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-Light.woff2') format('woff2'),
+        url('AlegreyaSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-Regular.woff2') format('woff2'),
+        url('AlegreyaSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-Italic.woff2') format('woff2'),
+        url('AlegreyaSans-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-MediumItalic.woff2') format('woff2'),
+        url('AlegreyaSans-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-BoldItalic.woff2') format('woff2'),
+        url('AlegreyaSans-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-ThinItalic.woff2') format('woff2'),
+        url('AlegreyaSans-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-ExtraBold.woff2') format('woff2'),
+        url('AlegreyaSans-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('AlegreyaSans-BlackItalic.woff2') format('woff2'),
+        url('AlegreyaSans-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+

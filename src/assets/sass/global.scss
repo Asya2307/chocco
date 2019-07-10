@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    outline-color: transparent;
+}
+
+a,
+button {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+h2,
+h1,
+h3 {
+    margin: 0;
+}
+
+html {
+    font-size: 10px;
+}
+
+.body {
+    min-width: 320px;
+    font-family: 'Alegreya Sans';
+}
+
+.container {
+    max-width: 103.2rem;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button-cross {
+    width: 18px;
+    height: 18px;
+    z-index: 1;
+    background: none;
+    border: none;
+    position: absolute;
+    right: 0;
+    padding: 0;
+    margin: 22px 32px 0 0;
+
+    svg {
+        path {
+            transition: $transition;
+        }
+    }
+
+    &:hover {
+        svg {
+            path {
+                opacity: 1;
+            }
+        }
+    }
+}
+
+
